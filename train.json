@@ -1,0 +1,332 @@
+[
+  {
+    "context": "consolidated comparable sale 15 sportchek grew first quarter since q2 2023 partially offset decline canadian tire retail ctr mark ctr comparable sales1 22 compared q3 2023 customer continued prioritize essential category including automotive continued perform well strong quarter q3 2023 led growth automotive service sportchek comparable sales1 29 marking two consecutive quarter sportchek outperformed industry trend targeted promotional event improved customer experience continued focus contributed growth athletic footwear hockey category mark comparable sales1 23 led industrial wear decline partially offset growth men short tshirts childrens wear top performer result ongoing strategic rollout category select mark store increased loyalty engagement saw active registered loyalty member 4 member took advantage 11 offer engaged mass triangle promotion scanned loyalty card instore net promoter score np across company banner including ctr store investment focus strong instock availability key brand continued drive improvement positive customer sentiment improved retail profitability led higher consolidated income income tax ibt 2993 million increase 2300 million 330 million normalized basis1 compared prior year retail ibt 1648 million 742 million 568 million normalized basis1 strong retail gross margin rate1 combined solid cost control offset decline retail revenue ibt also benefited higher income equated around 041 impact eps level result property sale gain insurance recovery financial service ibt 1103 million quarter 154 million decrease prior year higher net writeoffs operating expense partially offset higher revenue cardholder engagement remained strong gross average account receivable1 gaar 30 mainly result higher average account balance ctc continues make solid progress key area within better connected strategy enhance customer experience drive efficiency almost 17 billion capital invested since 2022 accomplishment third quarter included richer instore digital customer experience store investment proceeding pace four new party city store added q3 39 ctr store refresh project expected completed end 2024 taking total 120 since 2022 year end 90 canadian tire 502 store expected deployed technology enhancement electronic shelf label locker 60 ctc 1400 retail location enhanced broadband capability 2 improved supply chain productivity previously announced supply chain investment consolidation improving productivity saving including increased throughput result goodstoperson automation fully operational company calgary montreal distribution centre dc last stage planned supply chain investment include phased rollout ctc new transportation management system new vancouver dc set open 2025 continued margin accretion owned brand success continued strength category like automotive hockey contributing margin accretion owned brand penetration1 relatively flat despite pressure discretionary category pipeline innovative quality owned brand",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "What are the areas of growth mentioned in the third quarter report?",
+        "answers": [
+          {
+            "text": "Growth in automotive service, athletic footwear, and hockey category.",
+            "answer_start": 224
+          }
+        ]
+      },
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "What initiatives contributed to improving customer experience in Q3 2023?",
+        "answers": [
+          {
+            "text": "Targeted promotional events, improved customer experience, and continued focus on key categories.",
+            "answer_start": 332
+          }
+        ]
+      },
+      {
+        "id": "00003",
+        "is_impossible": true,
+        "question": "What was the revenue from online sales in Q3 2023?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "revenue 41929 million 14 compared 42505 million period last year revenue excluding petroleum1 36398 million decrease 04 compared prior year consolidated income income tax 2993 million 2300 million compared prior year normalized basis consolidated income income tax 330 million diluted eps 359 compared 119 296 normalized basis prior year refer company q3 2024 mda section 41 information normalizing item additional detail event impacted",
+    "qas": [
+      {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "What was the consolidated income before income tax in Q3 2024?",
+        "answers": [
+          {
+            "text": "2993 million",
+            "answer_start": 90
+          }
+        ]
+      },
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "What was the revenue excluding petroleum in Q3 2024?",
+        "answers": [
+          {
+            "text": "36398 million",
+            "answer_start": 57
+          }
+        ]
+      },
+      {
+        "id": "00006",
+        "is_impossible": true,
+        "question": "What were the total expenses incurred in Q3 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "retail sales1 45395 million 22 compared third quarter 2023 retail sale excluding petroleum1 consolidated comparable sale 14 15 respectively ctr retail sales1 20 comparable sale 22 period last year sportchek retail sales1 increased 20 period last year comparable sale 29 mark retail sales1 decreased 20 period last year comparable sale 23 3 helly hansen revenue 60 compared period 2023 mainly due shift timing shipment wholesale customer retail revenue 37978 million decrease 695 million 18 compared prior year retail revenue excluding petroleum1 08 retail gross margin 12148 million 06 compared third quarter prior year 10 excluding petroleum1 retail gross margin rate excluding petroleum increased 62 bps 357 retail ibt 1648 million q3 2024 compared 2390 million 1080 million normalized basis prior year retail return invested capital roic1 calculated trailing twelvemonth basis 88 end third quarter 2024 compared 111 end third quarter 2023 due decrease earnings prior period refer company q3 2024 mda section 421 information normalizing item additional detail event",
+    "qas": [
+      {
+        "id": "00007",
+        "is_impossible": false,
+        "question": "What was the retail sales excluding petroleum in Q3 2024?",
+        "answers": [
+          {
+            "text": "08",
+            "answer_start": 282
+          }
+        ]
+      },
+      {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "What was the retail IBT in Q3 2024?",
+        "answers": [
+          {
+            "text": "1648 million",
+            "answer_start": 332
+          }
+        ]
+      },
+      {
+        "id": "00009",
+        "is_impossible": true,
+        "question": "What was the net profit margin in Q3 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "financial service segment income income tax 1103 million quarter 154 million decrease prior year higher net writeoffs operating expense partially offset higher revenue cardholder engagement remained strong gaar 30 relative prior year driven growth average account balance 34 refer company q3 2024 mda section 431 432 additional detail event impacted financial",
+    "qas": [
+      {
+        "id": "00010",
+        "is_impossible": false,
+        "question": "What was the financial service segment income before income tax in the quarter?",
+        "answers": [
+          {
+            "text": "1103 million",
+            "answer_start": 48
+          }
+        ]
+      },
+      {
+        "id": "00011",
+        "is_impossible": false,
+        "question": "What was the growth in average account balance relative to the prior year?",
+        "answers": [
+          {
+            "text": "34",
+            "answer_start": 203
+          }
+        ]
+      },
+      {
+        "id": "00012",
+        "is_impossible": true,
+        "question": "What was the total revenue from all segments?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "diluted adjusted fund operations1 affo per unit 23 compared q3 2023 diluted net income per unit 0339 compared 0048 q3 2023 announced three new investment totalling 85 million expected add approximately 283000 square foot incremental gross leasable area upon completion information refer q3 2024 ct reit earnings release issued",
+    "qas": [
+      {
+        "id": "00013",
+        "is_impossible": false,
+        "question": "What was the diluted AFFO per unit compared to Q3 2023?",
+        "answers": [
+          {
+            "text": "23",
+            "answer_start": 43
+          }
+        ]
+      },
+      {
+        "id": "00014",
+        "is_impossible": false,
+        "question": "How much gross leasable area is expected to be added from the new investments?",
+        "answers": [
+          {
+            "text": "283000 square foot",
+            "answer_start": 144
+          }
+        ]
+      },
+      {
+        "id": "00015",
+        "is_impossible": true,
+        "question": "What was the total revenue for CT REIT in Q3 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "capital expenditure total capital expenditure 1951 million quarter compared 1764 million q3 2023 4576 million yeartodate basis operating capital expenditures1 1271 million quarter compared 1551 million q3 2023 full year 2024 operating capital expenditure expected company previously disclosed range 475 million 525 million 2025 operating capital expenditure expected range 525",
+    "qas": [
+      {
+        "id": "00016",
+        "is_impossible": false,
+        "question": "What was the total capital expenditure for the quarter?",
+        "answers": [
+          {
+            "text": "1951 million",
+            "answer_start": 40
+          }
+        ]
+      },
+      {
+        "id": "00017",
+        "is_impossible": false,
+        "question": "What is the expected operating capital expenditure range for the full year 2024?",
+        "answers": [
+          {
+            "text": "475 million 525 million",
+            "answer_start": 214
+          }
+        ]
+      },
+      {
+        "id": "00018",
+        "is_impossible": true,
+        "question": "What was the revenue for Q3 2023?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "company increased annual dividend 15th consecutive year 710 per common voting class nonvoting share share increase approximately 14 last year november 6 2024 company board director declared dividend 1775 per share payable march 1 2025 shareholder record january 31 2025 dividend considered eligible dividend",
+    "qas": [
+      {
+        "id": "00019",
+        "is_impossible": false,
+        "question": "How much is the annual dividend per share for the 15th consecutive year?",
+        "answers": [
+          {
+            "text": "710 per common voting class nonvoting share",
+            "answer_start": 54
+          }
+        ]
+      },
+      {
+        "id": "00020",
+        "is_impossible": false,
+        "question": "When is the dividend of 17.75 per share payable?",
+        "answers": [
+          {
+            "text": "March 1 2025",
+            "answer_start": 149
+          }
+        ]
+      },
+      {
+        "id": "00021",
+        "is_impossible": true,
+        "question": "What was the company's total revenue for 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "november 6 2024 company announced intention repurchase 200 million class nonvoting share excess amount required antidilutive purpose 2025 repurchase class nonvoting share made company existing normal course issuer bid ncib expires march 1 2025 thereafter renewed ncib subject",
+    "qas": [
+      {
+        "id": "00022",
+        "is_impossible": false,
+        "question": "How many class nonvoting shares does the company intend to repurchase?",
+        "answers": [
+          {
+            "text": "200 million",
+            "answer_start": 55
+          }
+        ]
+      },
+      {
+        "id": "00023",
+        "is_impossible": false,
+        "question": "When does the company's current NCIB expire?",
+        "answers": [
+          {
+            "text": "March 1 2025",
+            "answer_start": 185
+          }
+        ]
+      },
+      {
+        "id": "00024",
+        "is_impossible": true,
+        "question": "What is the company's total net income for 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "ratio supplementary financial measure press release contains nongaap financial measure ratio supplementary financial measure reference q3 2024 mda mean company management discussion analysis third quarter ended september 28 2024 available sedar httpwwwsedarplusca incorporated reference herein nongaap measure nongaap ratio standardized meaning gaap may comparable similar measure company nongaap financial measure ratio normalized diluted earnings per share normalized diluted eps nongaap ratio calculated dividing normalized net income attributable shareholder nongaap financial measure total diluted share company information measure see section 91 company q3 2024 mda following table reconciliation normalized net income attributable shareholder company respective gaap measure c million net income net income attributable shareholder add normalizing item dc fire expense recovery gsthstrelated charge1 change fair value redeemable financial instrument ytd ytd q3 2024 q3 2023 q3 2024 q3 2023 2207 278 5402 1419 408 2006 664 4762 964 3280 84 247 3280 2207 2038 5402 5030 2006 1652 4762 3969 359 296 854 700 normalized net income normalized net income attributable shareholders1 normalized diluted eps 1 50 million relates noncontrolling interest included sum normalized net income attributable shareholder consolidated normalized income income tax retail normalized income income tax financial service normalized income income tax consolidated normalized income income tax retail normalized income income tax financial service normalized income income tax nongaap financial measure information measure see section 91 company q3 2024 mda 6 following table reconciles consolidated normalized income income tax income income tax c million income income tax add normalizing item dc fire expense recovery gsthstrelated charge change fair value redeemable financial instrument normalized income income tax ytd q3 2024 q3 2023 q3 2024 q3 2023 2993 693 7169 3098 ytd 1310 3280 113 333 3280 2993 2663 7169 6824 following table reconciles retail normalized income income tax income income tax c million income income tax le operating segment retail income income tax add normalizing item dc fire expense recovery retail normalized income income tax ytd ytd q3 2024 q3 2023 q3 2024 q3 2023 2993 693 7169 3098 1345 1697 3814 645 1648 2390 3355 2453 1310 113 1648 1080 3355 2566 following table reconciles financial service normalized income income tax income income tax gaap measure reported consolidated financial statement ytd ytd q3 2024 q3 2023 q3 2024 q3 2023 2993 693 7169 3098 1890 100 1103 1257 2945 2998 564 4224 333 1103 1257 2945 3331 c million income income tax le operating segment financial service income income tax add normalizing item gsthstrelated charge financial service normalized income income tax 7 ct reit adjusted fund operation affo per unit affo per unit nongaap ratio calculated dividing affo weighted average number unit outstanding diluted basis affo nongaap financial measure following table reconciles gaap income income tax ffo reconciles ffo affo c million income income tax le operating segment ct reit income income tax add ct reit fair value loss gain adjustment ct reit deferred tax ct reit lease principal payment rightofuse asset ct reit fair value equity award ct reit internal leasing expense ct reit fund operation le ct reit property straightline rent revenue ct reit direct leasing cost ct reit capital expenditure reserve ct reit adjusted fund operation ytd ytd q3 2024 q3 2023 q3 2024 q3 2023 2993 693 7169 3098 2048 1186 945 113 2989 1912 580 4180 177 06 02 19 02 393 07 07 11 08 781 771 2357 2302 643 02 06 07 08 667 02 02 09 04 10 01 64 13 09 187 726 710 2194 2119 05 03 63 36 07 192 retail return invested capital roic roic calculated retail return divided retail invested capital retail return defined trailing annual retail aftertax earnings excluding interest expense lease related depreciation expense intersegment earnings normalizing item retail invested capital defined retail segment total asset le retail segment trade payable accrued liability inter segment balance based average trailing four quarter retail return retail invested capital nongaap financial measure information measure see section 91 company q3 2024 mda 8 c million income income tax le operating segment retail income income tax add normalizing item operational efficiency program targeted headcount reductionrelated charge dc fire expense recovery retail normalized income income tax le retail intercompany adjustments1 add retail interest expense2 retail depreciation rightofuse asset retail effective tax rate add retail tax retail return average total asset rolling 12 month ended q3 2024 q3 2023 9798 10620 1743 4826 8877 4972 196 5168 195 113 9185 2167 2137 3515 5985 274 3426 3027 6262 269 4394 9075 11943 222659 222046 42817 44909 179842 177137 le average asset operating segment average retail asset le average retail intercompany adjustments1 average retail trade payable accrued liabilities3 average franchise trust asset average retail invested capital retail roic 35093 29723 5051 103371 107270 111 intercompany adjustment include intercompany income received ct reit included retail segment intercompany investment made retail segment ct reit ctfs 43339 27402 5730 88 1 2 excludes franchise trust 3 trade payable accrued liability include trade payable shortterm derivative liability shortterm provision income tax payable 9 operating capital expenditure operating capital expenditure nongaap financial measure information measure see section 91 company q3 2024 mda following table reconciles total addition investing activity reported consolidated statement cash flow operating capital expenditure c million total additions1 add accrued addition q3 2024 q3 2023 1886 2164 ytd ytd q3 2024 q3 2023 4902 3966 213 122 326 392 le ct reit acquisition development excluding vendins ctc 680 213 820 427 operating capital expenditure 1 line appears consolidated statement cash flow investing activity 1271 1551 3756 3931 b supplementary financial measure ratio measure supplementary financial measure see section 92 supplementary financial measure company q3 2024 mda information composition measure consolidated retail sale consolidated comparable sale revenue excluding petroleum retail revenue excluding petroleum retail sale retail sale excluding petroleum canadian tire retail comparable retail sale sportchek comparable retail sale mark comparable retail sale retail gross margin rate retail gross margin rate excluding petroleum gross average account receivables average account balance",
+    "qas": [
+      {
+        "id": "00025",
+        "is_impossible": false,
+        "question": "What is the normalized diluted EPS for Q3 2024?",
+        "answers": [
+          {
+            "text": "1",
+            "answer_start": 231
+          }
+        ]
+      },
+      {
+        "id": "00026",
+        "is_impossible": false,
+        "question": "What is the total normalized net income attributable to shareholders for Q3 2024?",
+        "answers": [
+          {
+            "text": "3280",
+            "answer_start": 485
+          }
+        ]
+      },
+      {
+        "id": "00027",
+        "is_impossible": true,
+        "question": "What is the total gross revenue for Q3 2024?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "press release contains information may constitute forwardlooking information within meaning applicable security law forwardlooking information provides insight regarding management current expectation plan allows investor others better understand company anticipated financial position result operation operating environment reader cautioned information may appropriate purpose although company belief forwardlooking information press release based 10 information assumption belief current reasonable complete information necessarily subject number business economic competitive risk factor could cause actual result differ materially management expectation plan set forth forwardlooking information company provide assurance financial operational performance plan aspiration forecast actually achieved achieved result increase company share price information material risk factor uncertainty material factor assumption applied preparing forwardlooking information could cause company actual result differ materially prediction forecast projection expectation conclusion refer section 130 forwardlooking information investor communication company q3 2024 mda well ctc public filing available httpswwwsedarplusca httpsinvestorscanadiantireca company undertake update forwardlooking information whether written oral may made time time behalf reflect new information future event otherwise except required",
+    "qas": [
+      {
+        "id": "00028",
+        "is_impossible": false,
+        "question": "What does the forward-looking information in the press release aim to provide insight into?",
+        "answers": [
+          {
+            "text": "management current expectation plan",
+            "answer_start": 101
+          }
+        ]
+      },
+      {
+        "id": "00029",
+        "is_impossible": false,
+        "question": "Where can investors find additional details about the forward-looking information?",
+        "answers": [
+          {
+            "text": "https://www.sedarplus.ca https://investors.canadiantire.ca",
+            "answer_start": 719
+          }
+        ]
+      },
+      {
+        "id": "00030",
+        "is_impossible": true,
+        "question": "What is the company's projected revenue for Q3 2024?",
+        "answers": []
+      }
+    ]
+  }
+]

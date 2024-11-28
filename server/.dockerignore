@@ -1,0 +1,27 @@
+# flyctl launch added from env/lib/python3.12/site-packages/gradio/_frontend_code/lite/.gitignore
+env/lib/python3.12/site-packages/gradio/_frontend_code/lite/src/theme.css
+
+# flyctl launch added from env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/.gitignore
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/.eggs
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/dist
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/*.pyc
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/__pycache__
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/*.py[cod]
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/*$py.class
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/__tmp/*
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/*.pyi
+env/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test/**/node_modules
+
+# flyctl launch added from env/lib/python3.12/site-packages/gradio/_frontend_code/theme/.gitignore
+env/lib/python3.12/site-packages/gradio/_frontend_code/theme/**/*/pollen.css
+env/lib/python3.12/site-packages/gradio/_frontend_code/theme/**/*/theme.css
+fly.toml
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.git/
+*.log

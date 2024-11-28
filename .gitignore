@@ -163,6 +163,7 @@ cython_debug/
 
 # ignore outputs of model training
 outputs/
+model/
 
 # ignore wandb files
 wandb/

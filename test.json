@@ -1,10 +1,10 @@
 [
   {
     "context": "retail sales1 45395 million 22 compared third quarter 2023 retail sale excluding petroleum1 consolidated comparable sale 14 15 respectively ctr retail sales1 20 comparable sale 22 period last year sportchek retail sales1 increased 20 period last year comparable sale 29 mark retail sales1 decreased 20 period last year comparable sale 23 3 helly hansen revenue 60 compared period 2023 mainly due shift timing shipment wholesale customer retail revenue 37978 million decrease 695 million 18 compared prior year retail revenue excluding petroleum1 08 retail gross margin 12148 million 06 compared third quarter prior year 10 excluding petroleum1 retail gross margin rate excluding petroleum increased 62 bps 357 retail ibt 1648 million q3 2024 compared 2390 million 1080 million normalized basis prior year retail return invested capital roic1 calculated trailing twelvemonth basis 88 end third quarter 2024 compared 111 end third quarter 2023 due decrease earnings prior period refer company q3 2024 mda section 421 information normalizing item additional detail event",
-    "topic": "retail sector",
+    "topic": "Retail",
     "qas": [
       {
-        "id": "q23",
+        "id": "q22",
         "question": "What was the retail IBT for Canadian Tire in Q3 2024?",
         "answers": [
           {
@@ -17,10 +17,10 @@
   },
   {
     "context": "With customer spending still constrained, Canadians are seeking value and finding it through Triangle Rewards, where more loyalty members earned and redeemed with us at higher levels this quarter.",
-    "topic": "canadian customers motivations",
+    "topic": "Canadians",
     "qas": [
       {
-        "id": "q24",
+        "id": "q23",
         "question": "What are Canadians seeking?",
         "answers": [
           {
@@ -33,11 +33,11 @@
   },
   {
     "context": "Canadian Tire Corporation is a group of companies that includes a Retail segment, a Financial Services division and CT REIT. Our retail business is led by Canadian Tire, which was founded in 1922 and provides Canadians with products for life in Canada across its Living, Playing, Fixing, Automotive and Seasonal & Gardening divisions.",
-    "topic": "company information",
+    "topic": "Information",
     "qas": [
       {
-        "id": "q25",
-        "question": "What about Canadian Tire Corporation?",
+        "id": "q24",
+        "question": "Information about Canadian Tire Corporation?",
         "answers": [
           {
             "text": "is a group of companies that includes a Retail segment, a Financial Services division",

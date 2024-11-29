@@ -9,7 +9,7 @@ model_name = "model"  # Update this path to where your best model is stored
 model = QuestionAnsweringModel(model_type, model_name, use_cuda=False)
 
 # Load the expanded structured context JSON
-with open("expanded_structured_context.json", "r") as file:
+with open("structured_context.json", "r") as file:
     context_sections = json.load(file)
 
 # Initialize the zero-shot classification pipeline

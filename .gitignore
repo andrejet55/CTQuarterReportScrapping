@@ -178,4 +178,4 @@ cache_dir/
 runs/
 
 #ignore gradio files
-.gradio/
+.gradio

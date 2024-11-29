@@ -1,101 +1,50 @@
 [
-    {
-      "context": "canadian tire conduct conference call discus information included news release related matter 800 et thursday november 7 2024 conference call available simultaneously entirety interested investor news medium webcast httpsinvestorscanadiantireca available replay",
-      "qas": [
-        {
-          "id": "00031",
-          "is_impossible": false,
-          "question": "When will Canadian Tire conduct its conference call?",
-          "answers": [
-            {
-              "text": "800 ET Thursday November 7 2024",
-              "answer_start": 99
-            }
-          ]
-        },
-        {
-          "id": "00032",
-          "is_impossible": false,
-          "question": "Where can interested investors access the conference call?",
-          "answers": [
-            {
-              "text": "https://investors.canadiantire.ca",
-              "answer_start": 204
-            }
-          ]
-        },
-        {
-          "id": "00033",
-          "is_impossible": true,
-          "question": "What is the main agenda of the conference call?",
-          "answers": []
-        }
-      ]
-    },
-    {
-      "context": "canadian tire corporation limited tsx ctca tsx ctc ctc group company includes retail segment financial service division ct reit retail business led canadian tire founded 1922 provides canadian product life canada across living playing fixing automotive seasonal gardening division party city partsource gas key part canadian tire network retail segment also includes mark leading source casual industrial wear pro hockey life hockey specialty store catering elite player sportchek hockey expert sport expert atmosphere offer best active wear brand company close 1700 retail gasoline outlet supported strengthened ctc financial service division ten thousand people employed across canada around world ctc local dealer franchisees petroleum retailer addition ctc owns operates helly hansen leading technical outdoor brand based oslo norway information",
-      "qas": [
-        {
-          "id": "00034",
-          "is_impossible": false,
-          "question": "What are the key segments of Canadian Tire Corporation's business?",
-          "answers": [
-            {
-              "text": "retail segment, financial service division, CT REIT",
-              "answer_start": 68
-            }
-          ]
-        },
-        {
-          "id": "00035",
-          "is_impossible": false,
-          "question": "Where is Helly Hansen, the technical outdoor brand owned by CTC, based?",
-          "answers": [
-            {
-              "text": "Oslo, Norway",
-              "answer_start": 774
-            }
-          ]
-        },
-        {
-          "id": "00036",
-          "is_impossible": true,
-          "question": "What is the total revenue of Canadian Tire Corporation for 2024?",
-          "answers": []
-        }
-      ]
-    },
-    {
-      "context": "measure see section 91 company q3 2024 mda 8 c million income income tax le operating segment retail income income tax add normalizing item operational efficiency program targeted headcount reductionrelated charge dc fire expense recovery retail normalized income income tax le retail intercompany adjustments1 add retail interest expense2 retail depreciation rightofuse asset retail effective tax rate add retail tax retail return average total asset rolling 12 month ended q3 2024 q3 2023 9798 10620 1743 4826 8877 4972 196 5168 195 113 9185 2167 2137 3515 5985 274 3426 3027 6262 269 4394 9075 11943 222659 222046 42817 44909 179842 177137 le average asset operating segment average retail asset le average retail intercompany adjustments1 average retail trade payable accrued liabilities3 average franchise trust asset average retail invested capital retail roic 35093 29723 5051 103371 107270 111 intercompany adjustment include intercompany income received ct reit included retail segment intercompany investment made retail segment ct reit ctfs 43339 27402 5730 88 1 2 excludes franchise trust 3 trade payable accrued liability include trade payable shortterm derivative liability shortterm provision income tax payable 9 operating capital expenditure operating capital expenditure nongaap financial measure information measure see section 91 company q3 2024 mda following table reconciles total addition investing activity reported consolidated statement cash flow operating capital expenditure c million total additions1 add accrued addition q3 2024 q3 2023 1886 2164 ytd ytd q3 2024 q3 2023 4902 3966 213 122 326 392 le ct reit acquisition development excluding vendins ctc 680 213 820 427 operating capital expenditure 1 line appears consolidated statement cash flow investing activity 1271 1551 3756 3931 b supplementary financial measure ratio measure supplementary financial measure see section 92 supplementary financial measure company q3 2024 mda information composition measure consolidated retail sale consolidated comparable sale revenue excluding petroleum retail revenue excluding petroleum retail sale retail sale excluding petroleum canadian tire retail comparable retail sale sportchek comparable retail sale mark comparable retail sale retail gross margin rate retail gross margin rate excluding petroleum gross average account receivables average account balance owned brand penetration forwardlooking statement press release contains information may constitute forwardlooking information within meaning applicable security law forwardlooking information provides insight regarding management current expectation plan allows investor others better understand company anticipated financial position result operation operating environment reader cautioned information may appropriate purpose although company belief forwardlooking information press release based 10 information assumption belief current reasonable complete information necessarily subject number business economic competitive risk factor could cause actual result differ materially management expectation plan set forth forwardlooking information company provide assurance financial operational performance plan aspiration forecast actually achieved achieved result increase company share price information material risk factor uncertainty material factor assumption applied preparing forwardlooking information could cause company actual result differ materially prediction forecast projection expectation conclusion refer section 130 forwardlooking information investor communication company q3 2024 mda well ctc public filing available httpswwwsedarplusca httpsinvestorscanadiantireca company undertake update forwardlooking information whether written oral may made time time behalf reflect new information future event otherwise except required applicable security law conference call canadian tire conduct conference call discus information included news release related matter 800 et thursday november 7 2024 conference call available simultaneously entirety interested investor news medium webcast httpsinvestorscanadiantireca available replay website 12 month canadian tire corporation canadian tire corporation limited tsx ctca tsx ctc ctc group company includes retail segment financial service division ct reit retail business led canadian tire founded 1922 provides canadian product life canada across living playing fixing automotive seasonal gardening division party city partsource gas key part canadian tire network retail segment also includes mark leading source casual industrial wear pro hockey life hockey specialty store catering elite player sportchek hockey expert sport expert atmosphere offer best active wear brand company close 1700 retail gasoline outlet supported strengthened ctc financial service division ten thousand people employed across canada around world ctc local dealer franchisees petroleum retailer addition ctc owns operates helly hansen leading technical outdoor brand based oslo norway information visit corpcanadiantireca information medium stephanie nadalin 647 2717343 stephanienadalincantirecom investor karen keyes 647 5184461",
-      "qas": [
-        {
-          "id": "00037",
-          "is_impossible": false,
-          "question": "What are the key segments included in Canadian Tire Corporation?",
-          "answers": [
-            {
-              "text": "retail segment, financial service division, CT REIT",
-              "answer_start": 1189
-            }
-          ]
-        },
-        {
-          "id": "00038",
-          "is_impossible": false,
-          "question": "Where is Helly Hansen, owned by Canadian Tire Corporation, based?",
-          "answers": [
-            {
-              "text": "Oslo, Norway",
-              "answer_start": 1450
-            }
-          ]
-        },
-        {
-          "id": "00039",
-          "is_impossible": true,
-          "question": "What is the total revenue of Canadian Tire Corporation in Q3 2024?",
-          "answers": []
-        }
-      ]
-    }
-  ]
+  {
+    "context": "retail sales1 45395 million 22 compared third quarter 2023 retail sale excluding petroleum1 consolidated comparable sale 14 15 respectively ctr retail sales1 20 comparable sale 22 period last year sportchek retail sales1 increased 20 period last year comparable sale 29 mark retail sales1 decreased 20 period last year comparable sale 23 3 helly hansen revenue 60 compared period 2023 mainly due shift timing shipment wholesale customer retail revenue 37978 million decrease 695 million 18 compared prior year retail revenue excluding petroleum1 08 retail gross margin 12148 million 06 compared third quarter prior year 10 excluding petroleum1 retail gross margin rate excluding petroleum increased 62 bps 357 retail ibt 1648 million q3 2024 compared 2390 million 1080 million normalized basis prior year retail return invested capital roic1 calculated trailing twelvemonth basis 88 end third quarter 2024 compared 111 end third quarter 2023 due decrease earnings prior period refer company q3 2024 mda section 421 information normalizing item additional detail event",
+    "topic": "retail sector",
+    "qas": [
+      {
+        "id": "q23",
+        "question": "What was the retail IBT for Canadian Tire in Q3 2024?",
+        "answers": [
+          {
+            "text": "1648 million",
+            "answer_start": 721
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "With customer spending still constrained, Canadians are seeking value and finding it through Triangle Rewards, where more loyalty members earned and redeemed with us at higher levels this quarter.",
+    "topic": "canadian customers motivations",
+    "qas": [
+      {
+        "id": "q24",
+        "question": "What are Canadians seeking?",
+        "answers": [
+          {
+            "text": "Canadians are seeking value and finding it through Triangle Rewards",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Canadian Tire Corporation is a group of companies that includes a Retail segment, a Financial Services division and CT REIT. Our retail business is led by Canadian Tire, which was founded in 1922 and provides Canadians with products for life in Canada across its Living, Playing, Fixing, Automotive and Seasonal & Gardening divisions.",
+    "topic": "company information",
+    "qas": [
+      {
+        "id": "q25",
+        "question": "What about Canadian Tire Corporation?",
+        "answers": [
+          {
+            "text": "is a group of companies that includes a Retail segment, a Financial Services division",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  }
+]

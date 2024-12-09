@@ -1,0 +1,464 @@
+[
+    {
+        "context": "Consolidated revenue was $4,192.9 million, down 1.4% compared to the same period last year. Revenue excluding Petroleum was $3,639.8 million, a decrease of 0.4%.",
+        "question": "What was the consolidated revenue for Canadian Tire in Q3 2024?",
+        "answers": [
+            {
+                "text": "$4,192.9 million",
+                "answer_start": 25,
+                "answer_end": 41
+            }
+        ]
+    },
+    {
+        "context": "Consolidated revenue was $4,192.9 million, down 1.4% compared to the same period last year. Revenue excluding Petroleum was $3,639.8 million, a decrease of 0.4%.",
+        "question": "How much was the revenue excluding Petroleum in Q3 2024?",
+        "answers": [
+            {
+                "text": "$3,639.8 million",
+                "answer_start": 124,
+                "answer_end": 140
+            }
+        ]
+    },
+    {
+        "context": "Diluted earnings per share (EPS) rose to $3.59, compared to $(1.19) in Q3 2023, and $2.96 on a normalized basis in the prior year.",
+        "question": "What was the diluted EPS for Canadian Tire in Q3 2024?",
+        "answers": [
+            {
+                "text": "$3.59",
+                "answer_start": 41,
+                "answer_end": 46
+            }
+        ]
+    },
+    {
+        "context": "The annual dividend increased from $7.00 to $7.10 per share, marking the 15th consecutive year of increases. Quarterly dividends of $1.775 per share were declared.",
+        "question": "What is the annual dividend for Canadian Tire in 2024?",
+        "answers": [
+            {
+                "text": "$7.10",
+                "answer_start": 44,
+                "answer_end": 49
+            }
+        ]
+    },
+    {
+        "context": "The annual dividend increased from $7.00 to $7.10 per share, marking the 15th consecutive year of increases. Quarterly dividends of $1.775 per share were declared.",
+        "question": "How much were the quarterly dividends declared in Q3 2024?",
+        "answers": [
+            {
+                "text": "$1.775 per share",
+                "answer_start": 132,
+                "answer_end": 148
+            }
+        ]
+    },
+    {
+        "context": "Canadian Tire announced its intention to repurchase up to $200 million of Class A Non-Voting Shares in 2025 under its Normal Course Issuer Bid.",
+        "question": "How much is Canadian Tire planning to repurchase in Class A Non-Voting Shares?",
+        "answers": [
+            {
+                "text": "$200 million",
+                "answer_start": 58,
+                "answer_end": 70
+            }
+        ]
+    },
+    {
+        "context": "Active loyalty members increased by 4%. Triangle Rewards saw higher engagement with 1:1 offers and mass promotions. In-store Net Promoter Scores (NPS) improved across banners.",
+        "question": "By how much did active loyalty members increase?",
+        "answers": [
+            {
+                "text": "4%",
+                "answer_start": 36,
+                "answer_end": 38
+            }
+        ]
+    },
+    {
+        "context": "Active loyalty members increased by 4%. Triangle Rewards saw higher engagement with 1:1 offers and mass promotions. In-store Net Promoter Scores (NPS) improved across banners.",
+        "question": "What program saw higher engagement with 1:1 offers?",
+        "answers": [
+            {
+                "text": "Triangle Rewards",
+                "answer_start": 40,
+                "answer_end": 56
+            }
+        ]
+    },
+    {
+        "context": "Financial Services segment Income before income taxes was $110.3 million in the quarter, a $15.4 million decrease from the prior year, as higher net write-offs and operating expenses were only partially offset by higher revenues, all while cardholder engagement remained strong.",
+        "question": "What was the income before income taxes for the Financial Services segment in Q3 2024?",
+        "answers": [
+            {
+                "text": "$110.3 million",
+                "answer_start": 58,
+                "answer_end": 72
+            }
+        ]
+    },
+    {
+        "context": "Adjusted Funds from Operations per unit increased by 2.3%. Announced three new investments totaling $85 million to add approximately 283,000 square feet of gross leasable area.",
+        "question": "How much did AFFO per unit increase in Q3 2024?",
+        "answers": [
+            {
+                "text": "2.3%",
+                "answer_start": 53,
+                "answer_end": 57
+            }
+        ]
+    },
+    {
+        "context": "Adjusted Funds from Operations per unit increased by 2.3%. Announced three new investments totaling $85 million to add approximately 283,000 square feet of gross leasable area.",
+        "question": "How much was invested in new projects by CT REIT in Q3 2024?",
+        "answers": [
+            {
+                "text": "$85 million",
+                "answer_start": 100,
+                "answer_end": 111
+            }
+        ]
+    },
+    {
+        "context": "Total capital expenditures were $195.1 million in the quarter, compared to $176.4 million in Q3 2023. Full-year operating capital expenditures are expected to range between $475 million and $525 million.",
+        "question": "How much were the total capital expenditures in Q3 2024?",
+        "answers": [
+            {
+                "text": "$195.1 million",
+                "answer_start": 32,
+                "answer_end": 46
+            }
+        ]
+    },
+    {
+        "context": "Total capital expenditures were $195.1 million in the quarter, compared to $176.4 million in Q3 2023. Full-year operating capital expenditures are expected to range between $475 million and $525 million.",
+        "question": "What is the expected range for full-year operating capital expenditures in 2024?",
+        "answers": [
+            {
+                "text": "$475 million and $525 million",
+                "answer_start": 173,
+                "answer_end": 202
+            }
+        ]
+    },
+    {
+        "context": "canadian tire conduct conference call discus information included news release related matter thursday november 7 2024 conference call available simultaneously entirety interested investor news medium webcast httpsinvestorscanadiantireca available replay",
+        "question": "When will Canadian Tire conduct the conference call?",
+        "answers": [
+            {
+                "text": "thursday november 7 2024",
+                "answer_start": 94,
+                "answer_end": 118
+            }
+        ]
+    },
+    {
+        "context": "canadian tire company includes retail segment financial service division ct reit retail business led canadian tire founded 1922 provides canadian product life canada across living playing fixing automotive seasonal gardening division party city part source gas key part canadian tire network retail segment also includes mark leading source casual industrial wear pro hockey life hockey specialty store catering elite player sportchek hockey expert sport expert atmosphere offer best active wear brand company close 1700 retail gasoline outlet supported strengthened ctc financial service division ten thousand people employed across canada around world ctc local dealer franchisees petroleum retailer addition ctc owns operates helly hansen leading technical outdoor brand based oslo norway information",
+        "question": "What year was Canadian Tire founded?",
+        "answers": [
+            {
+                "text": "1922",
+                "answer_start": 123,
+                "answer_end": 127
+            }
+        ]
+    },
+    {
+        "context": "canadian tire company includes retail segment financial service division ct reit retail business led canadian tire founded 1922 provides canadian product life canada across living playing fixing automotive seasonal gardening division party city part source gas key part canadian tire network retail segment also includes mark leading source casual industrial wear pro hockey life hockey specialty store catering elite player sportchek hockey expert sport expert atmosphere offer best active wear brand company close 1700 retail gasoline outlet supported strengthened ctc financial service division ten thousand people employed across canada around world ctc local dealer franchisees petroleum retailer addition ctc owns operates helly hansen leading technical outdoor brand based oslo norway information",
+        "question": "How many retail and gasoline outlets does Canadian Tire operate?",
+        "answers": [
+            {
+                "text": "close 1700",
+                "answer_start": 510,
+                "answer_end": 520
+            }
+        ]
+    },
+    {
+        "context": "consolidated comparable sale 15 sportchek grew first quarter since q2 2023 partially offset decline canadian tire retail ctr mark ctr comparable sales1 22 compared q3 2023 customer continued prioritize essential category including automotive continued perform well strong quarter q3 2023 led growth automotive service sportchek comparable sales1 29 marking two consecutive quarter sportchek outperformed industry trend targeted promotional event improved customer experience continued focus contributed growth athletic footwear hockey category mark comparable sales1 23 led industrial wear decline partially offset growth men short tshirts childrens wear top performer result ongoing strategic rollout category select mark store increased loyalty engagement saw active registered loyalty member 4 member took advantage 11 offer engaged mass triangle promotion scanned loyalty card instore net promoter score np across company banner including ctr store investment focus strong instock availability key brand continued drive improvement positive customer sentiment improved retail profitability led higher consolidated income income tax ibt 2993 million increase 2300 million 330 million normalized basis1 compared prior year retail ibt 1648 million 742 million 568 million normalized basis1 strong retail gross margin rate1 combined solid cost control offset decline retail revenue ibt also benefited higher income equated around 041 impact eps level result property sale gain insurance recovery financial service ibt 1103 million quarter 154 million decrease prior year higher net writeoffs operating expense partially offset higher revenue cardholder engagement remained strong gross average account receivable1 gaar 30 mainly result higher average account balance ctc continues make solid progress key area within better connected strategy enhance customer experience drive efficiency almost 17 billion capital invested since 2022 accomplishment third quarter included richer instore digital customer experience store investment proceeding pace four new party city store added q3 39 ctr store refresh project expected completed end 2024 taking total 120 since 2022 year end 90 canadian tire 502 store expected deployed technology enhancement electronic shelf label locker 60 ctc 1400 retail location enhanced broadband capability 2 improved supply chain productivity previously announced supply chain investment consolidation improving productivity saving including increased throughput result goodstoperson automation fully operational company calgary montreal distribution centre dc last stage planned supply chain investment include phased rollout ctc new transportation management system new vancouver dc set open 2025 continued margin accretion owned brand success continued strength category like automotive hockey contributing margin accretion owned brand penetration1 relatively flat despite pressure discretionary category pipeline innovative quality owned brand",
+        "question": "How much was invested in Canadian Tire's Better Connected strategy since 2022?",
+        "answers": [
+            {
+                "text": "almost 17 billion",
+                "answer_start": 1888,
+                "answer_end": 1905
+            }
+        ]
+    },
+    {
+        "context": "financial service segment income income tax 1103 million quarter 154 million decrease prior year higher net write offs operating expense partially offset higher revenue cardholder engagement remained strong gar 30 relative prior year driven growth average account balance 34 refer company q3 2024 mda section 431 432 additional detail event impacted financial",
+        "question": "What was the income before income taxes for Financial Services in Q3 2024?",
+        "answers": [
+            {
+                "text": "1103 million",
+                "answer_start": 44,
+                "answer_end": 56
+            }
+        ]
+    },
+    {
+        "context": "company increased annual dividend 15th consecutive year 710 per common voting class nonvoting share share increase approximately 14 last year november 6 2024 company board director declared dividend 1775 per share payable march 1 2025 shareholder record january 31 2025 dividend considered eligible dividend",
+        "question": "What is the annual dividend per share for Canadian Tire in 2024?",
+        "answers": [
+            {
+                "text": "710",
+                "answer_start": 56,
+                "answer_end": 59
+            }
+        ]
+    },
+    {
+        "context": "revenue 41929 million 14 compared 42505 million period last year revenue excluding petroleum1 36398 million decrease 04 compared prior year consolidated income income tax 2993 million 2300 million compared prior year normalized basis consolidated income income tax 330 million diluted eps 359 compared 119 296 normalized basis prior year refer company q3 2024 mda section 41 information normalizing item additional detail event impacted",
+        "question": "What was the consolidated revenue for Canadian Tire in Q3 2024?",
+        "answers": [
+            {
+                "text": "41929 million",
+                "answer_start": 8,
+                "answer_end": 21
+            }
+        ]
+    },
+    {
+        "context": "retail sales1 45395 million 22 compared third quarter 2023 retail sale excluding petroleum1 consolidated comparable sale 14 15 respectively ctr retail sales1 20 comparable sale 22 period last year sportchek retail sales1 increased 20 period last year comparable sale 29 mark retail sales1 decreased 20 period last year comparable sale 23 3 helly hansen revenue 60 compared period 2023 mainly due shift timing shipment wholesale customer retail revenue 37978 million decrease 695 million 18 compared prior year retail revenue excluding petroleum1 08 retail gross margin 12148 million 06 compared third quarter prior year 10 excluding petroleum1 retail gross margin rate excluding petroleum increased 62 bps 357 retail ibt 1648 million q3 2024 compared 2390 million 1080 million normalized basis prior year retail return invested capital roic1 calculated trailing twelvemonth basis 88 end third quarter 2024 compared 111 end third quarter 2023 due decrease earnings prior period refer company q3 2024 mda section 421 information normalizing item additional detail event",
+        "question": "What were the retail sales for Canadian Tire in Q3 2024?",
+        "answers": [
+            {
+                "text": "45395 million",
+                "answer_start": 14,
+                "answer_end": 27
+            }
+        ]
+    },
+    {
+        "context": "retail sales1 45395 million 22 compared third quarter 2023 retail sale excluding petroleum1 consolidated comparable sale 14 15 respectively ctr retail sales1 20 comparable sale 22 period last year sportchek retail sales1 increased 20 period last year comparable sale 29 mark retail sales1 decreased 20 period last year comparable sale 23 3 helly hansen revenue 60 compared period 2023 mainly due shift timing shipment wholesale customer retail revenue 37978 million decrease 695 million 18 compared prior year retail revenue excluding petroleum1 08 retail gross margin 12148 million 06 compared third quarter prior year 10 excluding petroleum1 retail gross margin rate excluding petroleum increased 62 bps 357 retail ibt 1648 million q3 2024 compared 2390 million 1080 million normalized basis prior year retail return invested capital roic1 calculated trailing twelvemonth basis 88 end third quarter 2024 compared 111 end third quarter 2023 due decrease earnings prior period refer company q3 2024 mda section 421 information normalizing item additional detail event",
+        "question": "What was the retail gross margin in Q3 2024?",
+        "answers": [
+            {
+                "text": "12148 million",
+                "answer_start": 569,
+                "answer_end": 582
+            }
+        ]
+    },
+    {
+        "context": "Consolidated comparable sales trend improved compared to Q2 2024; consolidated comparable sales were down 1.5% compared to Q3 2023.",
+        "question": "By how much did consolidated comparable sales change compared to Q3 2023?",
+        "answers": [
+            {
+                "text": "down 1.5%",
+                "answer_start": 101,
+                "answer_end": 110
+            }
+        ]
+    },
+    {
+        "context": "Diluted and Normalized Earnings Per Share (EPS) were $3.59, compared to $(1.19) in Q3 2023, and up 21.3% from $2.96 on a normalized basis.",
+        "question": "What percentage increase was there in normalized EPS from the prior year?",
+        "answers": [
+            {
+                "text": "21.3%",
+                "answer_start": 99,
+                "answer_end": 104
+            }
+        ]
+    },
+    {
+        "context": "CTR comparable sales were down 2.2%, compared to Q3 2023.",
+        "question": "What was the percentage decrease in CTR comparable sales in Q3 2024?",
+        "answers": [
+            {
+                "text": "2.2%",
+                "answer_start": 31,
+                "answer_end": 35
+            }
+        ]
+    },
+    {
+        "context": "SportChek comparable sales were up 2.9%, marking two consecutive quarters in which SportChek outperformed industry trends.",
+        "question": "How much did SportChek comparable sales increase in Q3 2024?",
+        "answers": [
+            {
+                "text": "2.9%",
+                "answer_start": 35,
+                "answer_end": 39
+            }
+        ]
+    },
+    {
+        "context": "Mark\u2019s comparable sales were down 2.3%, led by industrial wear declines.",
+        "question": "What was the decline in Mark\u2019s comparable sales in Q3 2024?",
+        "answers": [
+            {
+                "text": "2.3%",
+                "answer_start": 34,
+                "answer_end": 38
+            }
+        ]
+    },
+    {
+        "context": "In-store Net Promoter Score (NPS) was up across the Company\u2019s banners, including CTR.",
+        "question": "What happened to the in-store Net Promoter Score across Canadian Tire's banners?",
+        "answers": [
+            {
+                "text": "was up",
+                "answer_start": 34,
+                "answer_end": 40
+            }
+        ]
+    },
+    {
+        "context": "Gross Average Accounts Receivable (GAAR) was up 3.0%, mainly as a result of higher average account balances.",
+        "question": "By what percentage did GAAR increase in Q3 2024?",
+        "answers": [
+            {
+                "text": "3.0%",
+                "answer_start": 48,
+                "answer_end": 52
+            }
+        ]
+    },
+    {
+        "context": "Store investments are proceeding at pace, with four new Party City stores added in Q3.",
+        "question": "How many new Party City stores were added in Q3 2024?",
+        "answers": [
+            {
+                "text": "four",
+                "answer_start": 47,
+                "answer_end": 51
+            }
+        ]
+    },
+    {
+        "context": "The last stage of planned supply chain investments will include the phased rollout of CTC\u2019s new transportation management system and a new Vancouver DC set to open in 2025.",
+        "question": "When is the new Vancouver Distribution Centre expected to open?",
+        "answers": [
+            {
+                "text": "2025",
+                "answer_start": 167,
+                "answer_end": 171
+            }
+        ]
+    },
+    {
+        "context": "Retail revenue was $3,797.8 million, a decrease of $69.5 million, or 1.8%, compared to the prior year.",
+        "question": "What was the percentage decrease in retail revenue in Q3 2024?",
+        "answers": [
+            {
+                "text": "1.8%",
+                "answer_start": 69,
+                "answer_end": 73
+            }
+        ]
+    },
+    {
+        "context": "Retail gross margin was $1,214.8 million, up 0.6% compared to the third quarter of the prior year.",
+        "question": "By what percentage did the retail gross margin increase in Q3 2024?",
+        "answers": [
+            {
+                "text": "0.6%",
+                "answer_start": 45,
+                "answer_end": 49
+            }
+        ]
+    },
+    {
+        "context": "Retail Return on Invested Capital (ROIC) was 8.8% at the end of the third quarter of 2024, compared to 11.1% at the end of the third quarter of 2023.",
+        "question": "What was the Retail ROIC at the end of Q3 2024?",
+        "answers": [
+            {
+                "text": "8.8%",
+                "answer_start": 45,
+                "answer_end": 49
+            }
+        ]
+    },
+    {
+        "context": "The Company increased its annual dividend for the 15th consecutive year, to $7.10 per Common Voting and Class A Non-Voting Share.",
+        "question": "How many consecutive years has Canadian Tire increased its annual dividend?",
+        "answers": [
+            {
+                "text": "15th",
+                "answer_start": 50,
+                "answer_end": 54
+            }
+        ]
+    },
+    {
+        "context": "The Company\u2019s Board of Directors declared dividends of $1.775 per share payable on March 1, 2025, to shareholders of record as of January 31, 2025.",
+        "question": "When are the declared dividends payable?",
+        "answers": [
+            {
+                "text": "March 1, 2025",
+                "answer_start": 83,
+                "answer_end": 96
+            }
+        ]
+    },
+    {
+        "context": "On November 6, 2024, the Company announced its intention to repurchase up to $200 million of its Class A Non-Voting Shares.",
+        "question": "When did Canadian Tire announce its intention to repurchase Class A Non-Voting Shares?",
+        "answers": [
+            {
+                "text": "November 6, 2024",
+                "answer_start": 3,
+                "answer_end": 19
+            }
+        ]
+    },
+    {
+        "context": "Operating capital expenditures were $127.1 million in the quarter, compared to $155.1 million in Q3 2023.",
+        "question": "How much were the operating capital expenditures in Q3 2024?",
+        "answers": [
+            {
+                "text": "$127.1 million",
+                "answer_start": 36,
+                "answer_end": 50
+            }
+        ]
+    },
+    {
+        "context": "Retail sales (excluding Petroleum) were down 1.4% compared to the same period last year.",
+        "question": "What was the percentage decrease in retail sales excluding Petroleum in Q3 2024?",
+        "answers": [
+            {
+                "text": "1.4%",
+                "answer_start": 45,
+                "answer_end": 49
+            }
+        ]
+    },
+    {
+        "context": "The Company has close to 1,700 retail and gasoline outlets supported by tens of thousands of employees.",
+        "question": "How many retail and gasoline outlets does Canadian Tire operate?",
+        "answers": [
+            {
+                "text": "close to 1,700",
+                "answer_start": 16,
+                "answer_end": 30
+            }
+        ]
+    },
+    {
+        "context": "Canadian Tire\u2019s retail business is led by Canadian Tire, founded in 1922.",
+        "question": "In what year was Canadian Tire founded?",
+        "answers": [
+            {
+                "text": "1922",
+                "answer_start": 68,
+                "answer_end": 72
+            }
+        ]
+    },
+    {
+        "context": "Helly Hansen, a leading technical outdoor brand, is owned and operated by Canadian Tire.",
+        "question": "What outdoor brand is owned by Canadian Tire?",
+        "answers": [
+            {
+                "text": "Helly Hansen",
+                "answer_start": 0,
+                "answer_end": 12
+            }
+        ]
+    }
+]

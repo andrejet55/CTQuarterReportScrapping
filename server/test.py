@@ -2,15 +2,6 @@ import json
 from simpletransformers.question_answering import QuestionAnsweringModel
 
 def ask_question_from_file(model):
-    """
-    Ask a question to the trained QA model with user input for context and question.
-
-    Args:
-        model (QuestionAnsweringModel): The trained QA model.
-
-    Returns:
-        None: Prints the question and the answer to the terminal.
-    """
     context = input("Enter the context (paragraph containing the answer):\n")
     question = input("\nEnter your question:\n")
     

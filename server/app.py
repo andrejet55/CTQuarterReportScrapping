@@ -1,80 +1,78 @@
 import gradio as gr
-from simpletransformers.question_answering import QuestionAnsweringModel
-from transformers import pipeline
+from transformers import BertForQuestionAnswering, BertTokenizerFast
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+import torch
 import json
 
-# Load your trained QA model
-model_type = "bert"
-model_name = "model"  # Update this path to where your best model is stored
-model = QuestionAnsweringModel(model_type, model_name, use_cuda=False)
+# Load the fine-tuned BERT model and tokenizer
+tokenizer = BertTokenizerFast.from_pretrained('bert-large-uncased-whole-word-masking-finetuned-squad')
+model = BertForQuestionAnswering.from_pretrained('model')
 
-# Load the expanded structured context JSON
+# Load the structured context JSON
 with open("structured_context.json", "r") as file:
     context_sections = json.load(file)
 
-# Initialize the zero-shot classification pipeline
-classification_pipeline = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=-1)
+# Combine all contexts into a list
+contexts = [section['context'] for section in context_sections]
 
-# Function to truncate context for better QA performance
-def truncate_context(context, max_length=512):
-    return context[:max_length]  # Simple truncation to first max_length characters
+# Create a TF-IDF vectorizer and fit it on the contexts
+vectorizer = TfidfVectorizer(stop_words='english')
+context_matrix = vectorizer.fit_transform(contexts)
 
-# Function to find the most relevant context dynamically
-def find_relevant_context(question):
-    topics = [section["topic"] for section in context_sections]
+# Function to retrieve the most relevant context using cosine similarity
+def retrieve_context(question, vectorizer, context_matrix, contexts, top_n=1):
+    # Transform the question into the same vector space
+    question_vec = vectorizer.transform([question])
 
-    # Perform classification
-    classification_result = classification_pipeline(question, topics)
+    # Compute cosine similarity between the question and all contexts
+    similarities = (context_matrix @ question_vec.T).toarray().flatten()
 
-    # Select the best topic
-    best_topic = classification_result["labels"][0]
-    print(f"\n--- Selected Topic: {best_topic} ---")
+    # Get the most relevant context(s)
+    best_indices = np.argsort(similarities)[-top_n:][::-1]
+    return [contexts[i] for i in best_indices]
 
-    # Retrieve the context corresponding to the best topic
-    for section in context_sections:
-        if section["topic"] == best_topic:
-            return truncate_context(section["context"])
-    
-    return ""  # Fallback if no topic is matched
+# Function to generate an answer using the fine-tuned BERT model
+def generate_answer(question, context, tokenizer, model):
+    # Tokenize question and context
+    inputs = tokenizer.encode_plus(question, context, return_tensors="pt")
+    input_ids = inputs["input_ids"]
+    attention_mask = inputs["attention_mask"]
 
+    # Get the model's predictions
+    outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+    start_scores = outputs.start_logits
+    end_scores = outputs.end_logits
+
+    # Identify the answer span
+    start_idx = torch.argmax(start_scores)
+    end_idx = torch.argmax(end_scores) + 1
+
+    # Decode the answer
+    answer = tokenizer.decode(input_ids[0][start_idx:end_idx])
+
+    return answer
+
+# Function to answer a question
 def answer_question(question):
-    # Find the relevant context
-    relevant_context = find_relevant_context(question)
-    if not relevant_context:
-        return "I couldn't determine a relevant context for your question."
-    
+    # Retrieve the most relevant context
+    retrieved_contexts = retrieve_context(question, vectorizer, context_matrix, contexts)
+    relevant_context = retrieved_contexts[0]  # Use the top context
+
     # Log the selected context
-    print("\n--- Debug Info: Selected Context ---")
+    print("\n--- Selected Context ---")
     print(relevant_context)
 
-    # Prepare the prediction input for your trained model
-    to_predict = [
-        {
-            "context": relevant_context,
-            "qas": [
-                {
-                    "id": "1",
-                    "question": question,
-                }
-            ],
-        }
-    ]
-    
-    # Get predictions from your QA model
-    answers, _ = model.predict(to_predict)
+    if not relevant_context:
+        return "I couldn't determine a relevant context for your question."
 
-    # Log the model's answers
-    print("\n--- Debug Info: Model Answers ---")
-    print(answers)
-
-    # Handle multiple answers and filter out empty strings
-    filtered_answers = [ans for ans in answers[0]["answer"] if ans.strip()]
+    # Generate the answer using the fine-tuned BERT model
+    answer = generate_answer(question, relevant_context, tokenizer, model)
     
-    # Return the first valid answer or fallback if no valid answer exists
-    if filtered_answers:
-        return filtered_answers[0]
-    else:
-        return "I couldn't find an answer to your question."
+    print("\n--- Generated Answer ---")
+    print(answer)
+    
+    return answer
 
 # Create Gradio Interface
 interface = gr.Interface(

@@ -1,0 +1,10 @@
+[{"context": "With customer spending still constrained, Canadians are seeking value and finding it through Triangle Rewards, where more loyalty members earned and redeemed with us at higher levels this quarter.", 
+    "question": "What are Canadians seeking?", 
+    "answers": [{
+        "text": "Canadians are seeking value and finding it through Triangle Rewards", 
+        "answer_start": 42}]}, 
+{"context": "Canadian Tire Corporation is a group of companies that includes a Retail segment, a Financial Services division and CT REIT. Our retail business is led by Canadian Tire, which was founded in 1922 and provides Canadians with products for life in Canada across its Living, Playing, Fixing, Automotive and Seasonal & Gardening divisions.", 
+"question": "What about Canadian Tire Corporation?", 
+"answers": [{
+    "text": "is a group of companies that includes a Retail segment, a Financial Services division", 
+    "answer_start": 26}]}]

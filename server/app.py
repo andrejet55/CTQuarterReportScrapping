@@ -10,7 +10,7 @@ tokenizer = BertTokenizerFast.from_pretrained('bert-large-uncased-whole-word-mas
 model = BertForQuestionAnswering.from_pretrained('model')
 
 # Load the structured context JSON
-with open("structured_context.json", "r") as file:
+with open("context.json", "r") as file:
     context_sections = json.load(file)
 
 # Combine all contexts into a list

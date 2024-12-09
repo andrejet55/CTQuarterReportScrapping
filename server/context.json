@@ -460,5 +460,61 @@
                 "answer_end": 12
             }
         ]
+    },
+    {
+        "context": "Hello! How can I assist you today? Feel free to ask questions about Canadian Tire Corporation's reports or any related information.",
+        "question": "Hello",
+        "answers": [
+            {
+                "text": "Hello! How can I assist you today?",
+                "answer_start": 0,
+                "answer_end": 35
+            }
+        ]
+    },
+    {
+        "context": "Canadian Tire Corporation is a retail company headquartered in Canada. It operates a range of businesses, including automotive, hardware, sports, leisure, and houseware stores. Additionally, it owns the Mark's, FGL Sports, and Canadian Tire Financial Services brands.",
+        "question": "What is Canadian Tire?",
+        "answers": [
+            {
+                "text": "Canadian Tire Corporation is a retail company headquartered in Canada.",
+                "answer_start": 0,
+                "answer_end": 65
+            }
+        ]
+    },
+    {
+        "context": "Canadian Tire Corporation's retail business includes Canadian Tire, which was founded in 1922. The company operates close to 1,700 retail and gasoline outlets across Canada.",
+        "question": "What is the name of Canadian Tire Corporation's retail business?",
+        "answers": [
+            {
+                "text": "Canadian Tire",
+                "answer_start": 33,
+                "answer_end": 46
+            }
+        ]
+    },
+
+    {
+        "context": "Canadian Tire Corporation's retail business includes Canadian Tire, which was founded in 1922. The company operates close to 1,700 retail and gasoline outlets across Canada.",
+        "question": "When was Canadian Tire founded?",
+        "answers": [
+            {
+                "text": "1922",
+                "answer_start": 54,
+                "answer_end": 58
+            }
+        ]
+    },
+    {
+        "context": "Canadian Tire Corporation's retail business includes Canadian Tire, which was founded in 1922. The company operates close to 1,700 retail and gasoline outlets across Canada.",
+        "question": "What is the name of Canadian Tire Corporation's retail business?",
+        "answers": [
+            {
+                "text": "Canadian Tire",
+                "answer_start": 33,
+                "answer_end": 46
+            }
+        ]
     }
 ]
